@@ -1,0 +1,23 @@
+ClassId,Name
+0,Parkering forbudt
+1,Handikapparkering
+2, Ubetinget vigepligt
+3,Fodgængerfelt
+4,Fartgrænse (60 km/t)
+5,Blind vej med stianlæg
+6,Fartgrænse (70 km/t)
+7,Indkørsel forbudt med ethvert køretøj
+8, Påbudt passage
+9,Højresving forbudt
+10, Standsning forbudt
+11,Indkørsel forbudt for motorkøretøjer
+12,Parkering
+13,Ensrettet
+14,Vejarbejde
+15,Ophør af område med fartdæmpning (40 km/t)
+16,Krydsende cyklister
+17,Venstresving
+18,Sammenfletning
+19,Cykel forbudt
+20,Fællessti
+21,Fartgrænse (40 km/t)
